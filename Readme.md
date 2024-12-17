@@ -1,7 +1,6 @@
-Here’s a polished and detailed explanation of your app idea, broken down clearly and engagingly:
 
 ---
-
+## **THEME : " Fintech " **  
 ## **App Concept: SplitEasy**  
 A **web application** that simplifies group expenses, personal loans, and financial management through intuitive tools and a chatbot. It helps friends and small groups split costs, track debts, and manage payments seamlessly.
 
