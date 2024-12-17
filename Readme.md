@@ -14,7 +14,7 @@ A web app that helps friends **split expenses**, **request loans**, and use a **
    - Track loans, repayments, and send reminders.
 
 3. **AI Chatbot**:  
-   - Users can talk to a chatbot to add expenses (e.g., “Add $20 dinner with Mike”).
+   - Users can talk to a chatbot to add expenses (e.g., “Add Rs20 dinner with Mike”).
    - Ask the chatbot about balances, due payments, or debts.
 
 4. **Simple Credit Score**:  
@@ -49,7 +49,7 @@ A web app that helps friends **split expenses**, **request loans**, and use a **
 ---
 
 ### **Monetization**:
-- **Subscription**: Charge users $5-$10/month for advanced features (e.g., higher loan limits, analytics).
+- **Subscription**: Charge users Rs100-R150/month for advanced features (e.g., higher loan limits, analytics).
 - **Transaction Fees**: Charge a small fee for processing payments or loans.
 
 ---
