@@ -1,4 +1,3 @@
-Here's a README-style documentation for your SplitEasy project tailored for a college project:
 
 ---
 
