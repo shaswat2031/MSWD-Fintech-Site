@@ -1,4 +1,3 @@
-Here's a detailed README.md template for your SplitEasy app project, perfect for documentation in a college setting. This template covers all key aspects, from project description to setup instructions, features, and tech stack.
 
 ---
 
@@ -160,7 +159,7 @@ backend/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SplitEasy.git
+   git clone https://github.com/shaswat2031/SplitEasy.git
    cd frontend
    ```
 
@@ -178,7 +177,7 @@ backend/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SplitEasy.git
+   git clone https://github.com/shaswat2031/SplitEasy.git
    cd backend
    ```
 
