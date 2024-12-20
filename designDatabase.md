@@ -1,6 +1,3 @@
-To design the database for **SplitEasy** using **MongoDB**, we need to define collections and the schema for each key component of the application: expenses, loans, users, and credit scores. MongoDB is a NoSQL database, so we will work with documents and collections rather than tables.
-
-Here’s a detailed design for the database:
 
 ---
 
@@ -195,5 +192,3 @@ A collection to track and update the credit scores of users based on repayment h
 ## **Conclusion**
 
 This database design captures the essential features of the **SplitEasy** app, such as expense tracking, loan management, payments, and credit scoring. The design leverages MongoDB's flexibility to store data in a way that is both scalable and easy to manage. This structure can be expanded in the future as more features are added to the application.
-
-Let me know if you need further modifications or clarification!
